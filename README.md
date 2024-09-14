@@ -1,1 +1,1 @@
-# Aerofit-Descriptive_Statistics_and_Probability
+# Aerofit - Descriptive Statistics and Probability
