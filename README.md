@@ -1,7 +1,7 @@
 # Aerofit - Descriptive Statistics and Probability
 
 **About Aerofit**  
-Aerofit is not just a fitness equipment brand but a lifestyle choice! We offer a wide range of high-quality fitness products, from premium treadmills and exercise bikes to gym equipment and essential accessories, catering to the diverse fitness needs of people everywhere. 💥
+Aerofit is not just a fitness equipment brand but a lifestyle choice! We offer a wide range of high-quality fitness products, from premium treadmills and exercise bikes to gym equipment and essential accessories, catering to the diverse fitness needs of people everywhere.
 
 **Business Problem**  
 Aerofit is on a mission to better understand our customers and provide personalized treadmill recommendations for new buyers. We’re diving into the data to identify the key factors that set our treadmill models apart. Our objectives are:
